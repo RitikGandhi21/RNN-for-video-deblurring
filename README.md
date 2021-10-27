@@ -1,11 +1,11 @@
 # RNN for video deblurring
 
-An efficient RNN-based model and real-world dataset for video deblurring 
+An efficient RNN-based model and real-world dataset for video deblurring.
 
 ## Results
 
 
-### Results on GOPRO
+
 ![image](https://github.com/zzh-tech/Images/blob/master/ESTRNN/gopro.gif)
 
 
